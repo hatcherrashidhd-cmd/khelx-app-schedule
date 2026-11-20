@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hatcherrashidhd-cmd.github.io/khelx-app-schedule/sitemap.xml
